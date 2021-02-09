@@ -27,7 +27,6 @@ const displaySongs = songs => {
             </div>
         `;
         songsContainer.appendChild(songDiv);
-        console.log(song);
     });
 }
 
